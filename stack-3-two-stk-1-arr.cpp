@@ -1,3 +1,5 @@
+// Q---> create two stack using one array
+
 #include <iostream>
 using namespace std;
 
